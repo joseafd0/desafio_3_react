@@ -1,0 +1,25 @@
+.alert-success {
+  background-color: #d4edda;
+  color: #155724;
+  border-color: #c3e6cb;
+  width: 100%;
+  border-radius: 4px;
+  height: 50px;
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.alert-error {
+  background-color: #f8d7da;
+  color: #721c24;
+  border-color: #f5c6cb;
+  width: 100%;
+  border-radius: 4px;
+  height: 50px;
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

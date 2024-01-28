@@ -1,0 +1,22 @@
+.formulario {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.form-field {
+  margin-bottom: 1rem;
+}
+
+.form-control {
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.btn-purple {
+  width: 100%;
+  background-color: #7533ff;
+  border-color: #7533ff;
+}

@@ -1,0 +1,7 @@
+.listado-table {
+    border: 1px solid #ddd;
+  }
+  
+  .listado-row:nth-child(even) {
+    background-color: #f2f2f2;
+  }
